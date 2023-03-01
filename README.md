@@ -14,4 +14,4 @@ This project is the first laboratory work in the discipline "Java Programming".
 ### What else?
 Also here there is a handling of various exceptions. <br>
 ### Finally, I leave an example how it works:
-![Текст с описанием картинки](https://drive.google.com/file/d/14lruIIy4exxKuqEzdCFiDaIgS6Wrj-Tm/view?usp=share_link)
+![Текст с описанием картинки](https://drive.google.com/uc?export=download&confirm=no_antivirus&id=14lruIIy4exxKuqEzdCFiDaIgS6Wrj-Tm)
