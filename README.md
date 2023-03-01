@@ -4,7 +4,7 @@ This project is the first laboratory work in the discipline "Java Programming".
 1. Create a complex number of the form real + i * image, real and image parameters are entered from the keyboard.
 2. Add two complex numbers.
 3. Multiply two complex numbers.
-4. Outout a complex number in trigonometric form (if possible).
+4. Output a complex number in trigonometric form (if possible).
 5. Create a matrix containing complex numbers (entered from the keyboard).
 6. Add two matrices (if possible).
 7. Multiply two matrices (if possible).
